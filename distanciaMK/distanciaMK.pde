@@ -1,4 +1,4 @@
-int posicionMario,posicionKoopa,distanciaMK
+int posicionMario,posicionKoopa,distanciaMK;
 
   void setup(){ 
   posicionMario=5;
